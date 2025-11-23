@@ -6,7 +6,7 @@ description: A personal resume site built with Jekyll Minimal Resume Theme
 
 # User settings
 username: Seng Lin Shee, PhD
-user_description: I currently manage and lead the engineering team in the Innovation Lab at GM Financial. With extensive experience in designing and implementing scalable solutions, I specialize in leveraging Generative AI to drive transformative projects that enhance business value and user experiences. I build high-performing engineering teams from the ground up, scaling them to support strategic goals, mentoring members to foster professional growth, and establishing processes for Proof of Concept initiatives that translate into impactful production deployments.<P/><P/>Outside of my day job, I like to explore, gardening, take photographs/videos and keep fit by collecting awesome finisher medals at organized races.
+user_description: I currently manage and lead the engineering team in the Innovation Lab at GM Financial. With extensive experience in designing and implementing scalable solutions, I specialize in leveraging Generative AI to drive transformative projects that enhance business value and user experiences.<P/>I build high-performing engineering teams from the ground up, scaling them to support strategic goals, mentoring members to foster professional growth, and establishing processes for Proof of Concept initiatives that translate into impactful production deployments.<P/>Outside of my day job, I like to explore, gardening, take photographs/videos and keep fit by collecting awesome finisher medals at organized races.
 user_title: Lead, evangelist, architect, developer, tinkerer, explorer...
 email: senglin.external<removethis>@kgkoo.com
 # twitter_username: lorem_ipsum
