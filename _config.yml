@@ -1,0 +1,23 @@
+# Site settings
+title: Seng Lin Shee
+description: A personal resume site built with Jekyll Minimal Resume Theme
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Seng Lin Shee, PhD
+user_description: I currently manage and lead the engineering team at the Innovation Lab at GM Financial. With extensive experience in designing and implementing scalable solutions, I specialize in leveraging Generative AI to drive transformative projects that enhance business value and user experiences.
+user_title: Management, driver, architect, developer, tinkerer, explorer...
+email: senglin.career<removethis>@kgkoo.com
+# twitter_username: lorem_ipsum
+instagram_username: 
+facebook_username: 
+linkedin_username: senglin
+github_username:  senglin
+medium_username: senglin
+twitter_username: slshee
+# medium_url: lorem_ipsum.medium.com
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src', 'node_modules', 'vendor']
+
