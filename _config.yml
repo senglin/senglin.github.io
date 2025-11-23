@@ -1,0 +1,50 @@
+# site settings
+title: Seng Lin Shee, PhD
+subtitle: in Mountain View, CA
+email: signup.github@kgkoo.com
+description: A personal website showcasing my projects and blog posts.
+baseurl:  # the subpath of your site, e.g. /blog
+url: https://senglin.github.io # the base hostname & protocol for your site
+author: Seng Lin Shee
+street_address: 
+city: 
+state: 
+zip_code: 
+country: 
+phone: 
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/senglin
+  GitLab:
+  Google-Plus: 
+  Instagram:
+  LinkedIn: https://www.linkedin.com/in/senglin
+  Twitter: https://x.com/slshee
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+# Disable github-metadata plugin for local development
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md
+- vendor
+- .bundle 
